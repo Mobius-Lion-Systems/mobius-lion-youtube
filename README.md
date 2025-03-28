@@ -1,2 +1,2 @@
 # mobius-lion-youtube
-A hub for the projects presented on the youtube channel. Under maintenance :D 
+Onde ficam os códigos dos projetos que vão pro youtube ou outros locais. 
